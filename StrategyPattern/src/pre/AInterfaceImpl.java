@@ -1,3 +1,5 @@
+package pre;
+
 public class AInterfaceImpl implements AInterface {
 
     // 실제 구현
