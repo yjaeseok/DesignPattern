@@ -1,3 +1,5 @@
+import lib.Math;
+
 public class AdapterImpl implements Adapter {
 
     @Override
